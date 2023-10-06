@@ -1,4 +1,9 @@
 # AirBnB Clone - The Console
+
+##Dynamic Web Development:
+*In web development, the term "dynamic" often refers to websites or web applications that generate content on the server-side in response to user requests. Dynamic websites can use technologies like PHP, Python, Ruby, Node.js, or other server-side scripting languages to generate HTML content dynamically based on user inputs or data retrieved from databases. These sites are capable of handling user interactions, form submissions, and real-time updates.
+
+
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
